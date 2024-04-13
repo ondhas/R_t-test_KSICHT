@@ -1,6 +1,6 @@
 # R_t-test_KSICHT
            Statistic          UKA           Control
-1               Mean  3.060000000              3.89
+                Mean  3.060000000              3.89
 2 Standard deviation  0.614997742 0.600832755431992
 3           Variance  0.378222222             0.361
 4          Count (n) 10.000000000                10
